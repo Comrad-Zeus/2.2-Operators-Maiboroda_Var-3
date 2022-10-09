@@ -1,0 +1,15 @@
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\bin\Debug\net6.0\2.2 Условные операторы.exe
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\bin\Debug\net6.0\2.2 Условные операторы.deps.json
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\bin\Debug\net6.0\2.2 Условные операторы.runtimeconfig.json
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\bin\Debug\net6.0\2.2 Условные операторы.dll
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\bin\Debug\net6.0\2.2 Условные операторы.pdb
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\obj\Debug\net6.0\2.2 Условные операторы.csproj.AssemblyReference.cache
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\obj\Debug\net6.0\2.2 Условные операторы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\obj\Debug\net6.0\2.2 Условные операторы.AssemblyInfoInputs.cache
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\obj\Debug\net6.0\2.2 Условные операторы.AssemblyInfo.cs
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\obj\Debug\net6.0\2.2 Условные операторы.csproj.CoreCompileInputs.cache
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\obj\Debug\net6.0\2.2 Условные операторы.dll
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\obj\Debug\net6.0\refint\2.2 Условные операторы.dll
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\obj\Debug\net6.0\2.2 Условные операторы.pdb
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\obj\Debug\net6.0\2.2 Условные операторы.genruntimeconfig.cache
+C:\Users\maybo\source\repos\2.2 Условные операторы\2.2 Условные операторы\obj\Debug\net6.0\ref\2.2 Условные операторы.dll
